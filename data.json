@@ -1,0 +1,217 @@
+[
+    {
+      "id": "1",
+      "name": "Gaming Laptop",
+      "category": "Electronics",
+      "brand": "GamerPro",
+      "price": 1500.99,
+      "discount": 10,
+      "stock": 50,
+      "rating": 4.5,
+      "reviews": 120,
+      "description": "High-performance gaming laptop with latest graphics and processor.",
+      "features": ["16GB RAM", "1TB SSD", "RTX 3080 GPU", "Intel i7"],
+      "images": [
+        "images/gaming-laptop-1.jpg",
+        "images/gaming-laptop-2.jpg"
+      ],
+      "warranty": "2 years",
+      "dimensions": {
+        "width": "35cm",
+        "height": "2.5cm",
+        "depth": "25cm"
+      },
+      "weight": "2.5kg",
+      "color": "Black",
+      "createdAt": "2024-07-18T10:00:00Z",
+      "updatedAt": "2024-07-18T12:00:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "brand": "SoundWave",
+      "price": 299.99,
+      "discount": 5,
+      "stock": 200,
+      "rating": 4.8,
+      "reviews": 250,
+      "description": "Noise-cancelling wireless headphones with high-fidelity sound.",
+      "features": ["Bluetooth 5.0", "20-hour battery life", "Built-in microphone"],
+      "images": [
+        "images/wireless-headphones-1.jpg",
+        "images/wireless-headphones-2.jpg"
+      ],
+      "warranty": "1 year",
+      "dimensions": {
+        "width": "15cm",
+        "height": "20cm",
+        "depth": "10cm"
+      },
+      "weight": "0.3kg",
+      "color": "Blue",
+      "createdAt": "2024-07-15T10:00:00Z",
+      "updatedAt": "2024-07-17T12:00:00Z"
+    },
+    {
+      "id": "3",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "brand": "TechMaster",
+      "price": 999.99,
+      "discount": 15,
+      "stock": 75,
+      "rating": 4.7,
+      "reviews": 180,
+      "description": "Latest smartphone with advanced features and sleek design.",
+      "features": ["128GB storage", "8GB RAM", "Quad-camera", "5G enabled"],
+      "images": [
+        "images/smartphone-1.jpg",
+        "images/smartphone-2.jpg"
+      ],
+      "warranty": "2 years",
+      "dimensions": {
+        "width": "7cm",
+        "height": "0.8cm",
+        "depth": "15cm"
+      },
+      "weight": "0.2kg",
+      "color": "Silver",
+      "createdAt": "2024-07-10T10:00:00Z",
+      "updatedAt": "2024-07-18T10:00:00Z"
+    },
+    {
+      "id": "4",
+      "name": "Smartwatch",
+      "category": "Electronics",
+      "brand": "WristTech",
+      "price": 199.99,
+      "discount": 20,
+      "stock": 150,
+      "rating": 4.3,
+      "reviews": 100,
+      "description": "Smartwatch with fitness tracking and mobile connectivity.",
+      "features": ["Heart rate monitor", "GPS", "Water-resistant", "Notifications"],
+      "images": [
+        "images/smartwatch-1.jpg",
+        "images/smartwatch-2.jpg"
+      ],
+      "warranty": "1 year",
+      "dimensions": {
+        "width": "4cm",
+        "height": "1cm",
+        "depth": "4cm"
+      },
+      "weight": "0.1kg",
+      "color": "Black",
+      "createdAt": "2024-07-01T10:00:00Z",
+      "updatedAt": "2024-07-15T10:00:00Z"
+    },
+    {
+      "id": "5",
+      "name": "4K Television",
+      "category": "Electronics",
+      "brand": "ViewMax",
+      "price": 1200.00,
+      "discount": 25,
+      "stock": 30,
+      "rating": 4.6,
+      "reviews": 75,
+      "description": "Ultra HD 4K television with HDR and smart features.",
+      "features": ["55-inch display", "HDR", "Smart TV", "4 HDMI ports"],
+      "images": [
+        "images/4k-television-1.jpg",
+        "images/4k-television-2.jpg"
+      ],
+      "warranty": "3 years",
+      "dimensions": {
+        "width": "123cm",
+        "height": "7cm",
+        "depth": "75cm"
+      },
+      "weight": "15kg",
+      "color": "Black",
+      "createdAt": "2024-06-25T10:00:00Z",
+      "updatedAt": "2024-07-10T10:00:00Z"
+    },
+    {
+      "id": "6",
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "brand": "SoundBlast",
+      "price": 49.99,
+      "discount": 10,
+      "stock": 300,
+      "rating": 4.2,
+      "reviews": 220,
+      "description": "Portable Bluetooth speaker with excellent sound quality.",
+      "features": ["Bluetooth 5.0", "12-hour battery life", "Waterproof"],
+      "images": [
+        "images/bluetooth-speaker-1.jpg",
+        "images/bluetooth-speaker-2.jpg"
+      ],
+      "warranty": "1 year",
+      "dimensions": {
+        "width": "10cm",
+        "height": "10cm",
+        "depth": "10cm"
+      },
+      "weight": "0.5kg",
+      "color": "Red",
+      "createdAt": "2024-07-05T10:00:00Z",
+      "updatedAt": "2024-07-12T10:00:00Z"
+    },
+    {
+      "id": "7",
+      "name": "Gaming Keyboard",
+      "category": "Electronics",
+      "brand": "KeyMaster",
+      "price": 79.99,
+      "discount": 15,
+      "stock": 100,
+      "rating": 4.4,
+      "reviews": 130,
+      "description": "Mechanical gaming keyboard with customizable RGB lighting.",
+      "features": ["Mechanical switches", "RGB lighting", "Anti-ghosting keys"],
+      "images": [
+        "images/gaming-keyboard-1.jpg",
+        "images/gaming-keyboard-2.jpg"
+      ],
+      "warranty": "2 years",
+      "dimensions": {
+        "width": "45cm",
+        "height": "4cm",
+        "depth": "15cm"
+      },
+      "weight": "1.2kg",
+      "color": "Black",
+      "createdAt": "2024-06-30T10:00:00Z",
+      "updatedAt": "2024-07-14T10:00:00Z"
+    },
+    {
+      "id": "8",
+      "name": "Digital Camera",
+      "category": "Electronics",
+      "brand": "PhotoPro",
+      "price": 799.99,
+      "discount": 20,
+      "stock": 40,
+      "rating": 4.7,
+      "reviews": 90,
+      "description": "High-resolution digital camera with advanced features for photography enthusiasts.",
+      "features": ["24MP sensor", "4K video recording", "Wi-Fi connectivity"],
+      "images": [
+        "images/digital-camera-1.jpg",
+        "images/digital-camera-2.jpg"
+      ],
+      "warranty": "2 years",
+      "dimensions": {
+        "width": "14cm",
+        "height": "9cm",
+        "depth": "8cm"
+      },
+      "weight": "0.8kg",
+      "color": "Black",
+      "createdAt": "2024-07-12T10:00:00Z",
+      "updatedAt": "2024-07-18T10:00:00Z"
+    }]
